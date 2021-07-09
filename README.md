@@ -10,7 +10,7 @@
 
 > esx_vehicleshop: permite a los jugadores comprar vehículos en un concesionario o configurar el apoyo de la sociedad para un concesionario administrado por jugadores
 
-> esx_ambulancejop: agrega un sistema de muerte y reaparición al tiempo que permite a los jugadores trabajar como EMS para curar y revivir a otros
+> esx_ambulancejob: agrega un sistema de muerte y reaparición al tiempo que permite a los jugadores trabajar como EMS para curar y revivir a otros
 
 Se incluyen muchos más recursos en este repositorio, o puede navegar por [ESX Community Github] (https://github.com/esx-community/) o [Cfx.re Releases board] (https: //forum.cfx. re / tag / esx) para obtener más información.
 
