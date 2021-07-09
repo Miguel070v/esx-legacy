@@ -75,5 +75,5 @@ Se incluyen muchos más recursos en este repositorio, o puede navegar por [ESX C
 
 ### Conflictos
 * Los siguientes recursos no deben usarse con ESX Legacy
-- modo esencial
-- básico-ga
+- essentialmode
+- basic-gamemode
