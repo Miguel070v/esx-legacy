@@ -77,3 +77,29 @@ Se incluyen muchos más recursos en este repositorio, o puede navegar por [ESX C
 * Los siguientes recursos no deben usarse con ESX Legacy
 - essentialmode
 - basic-gamemode
+- modo de juego básico
+- mapa-patinador de cinco metros
+- mapa-hipster de cinco metros
+- default_spawnpoint
+
+### Información
+ESX fue desarrollado inicialmente por Gizz en 2017 para su amigo, ya que estaban creando un servidor FiveM y no había ningún marco de juego de roles económico disponible. El código original se escribió dentro de una semana o dos y luego fue de código abierto, desde entonces se ha mejorado y se han reescrito partes para mejorarlo aún más.
+- [Foro de ESX] (https://forum.esx-framework.org/)
+- [Documentación de ESX] (https://wiki.esx-framework.org/)
+- [ESX Development Discord] (https://discord.me/esx)
+- [Referencia nativa de FiveM] (https://runtime.fivem.net/doc/reference.html)
+
+
+### Legal
+
+Licencia ###
+
+es_extended - marco ESX para FiveM
+
+Copyright (C) 2015-2021 Jérémie N'gadi
+
+Este programa es software libre: puede redistribuirlo y / o modificarlo según los términos de la licencia pública general GNU publicada por la Free Software Foundation, ya sea la versión 3 de la licencia, o (a su elección) cualquier versión posterior.
+
+Este programa se distribuye con la esperanza de que sea útil, pero SIN NINGUNA GARANTÍA; incluso sin la garantía implícita de COMERCIABILIDAD O APTITUD PARA UN PROPÓSITO PARTICULAR. Consulte la Licencia pública general GNU para obtener más detalles.
+
+Debería haber recibido una copia de la Licencia Pública General GNU junto con este programa. De lo contrario, consulte http://www.gnu.org/licenses/.
