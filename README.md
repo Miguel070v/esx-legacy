@@ -94,7 +94,7 @@ ESX fue desarrollado inicialmente por Gizz en 2017 para su amigo, ya que estaban
 
 Licencia ###
 
-es_extended - marco ESX para FiveM
+es_extended - framework ESX para FiveM
 
 Copyright (C) 2015-2021 Jérémie N'gadi
 
